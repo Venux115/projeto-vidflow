@@ -1,0 +1,12 @@
+.menu__container
+{
+    font-size: 0.875rem;
+    font-weight: 400; 
+    font-family: Roboto; 
+}
+
+.menu__categoria-lista
+{
+    border-bottom: 1px solid  #144480;
+    padding:  1.5rem 0;
+}
